@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyBZJhfJI8U4xFM27RsfM8FLYcD+ep6IOw5Q4XaGwRoL4/44c5feYULKeKci9NSThCqX6hyIjFvTb9xxWV7w3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\VendorMachine_WPF-MVVM\\VendorMachine\\VendorMachine_APP\\VendorMachine_APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
