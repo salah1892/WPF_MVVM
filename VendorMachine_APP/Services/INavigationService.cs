@@ -1,4 +1,5 @@
 ﻿using System.Windows.Controls;
+using VendorMachine_APP.Common;
 using VendorMachine_APP.ViewModel;
 
 namespace VendorMachine_APP.Services;

@@ -60,3 +60,5 @@ C:\Users\USER\Desktop\VendorMachine_WPF-MVVM\VendorMachine\VendorMachine_APP\obj
 C:\Users\USER\Desktop\VendorMachine_WPF-MVVM\VendorMachine\VendorMachine_APP\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\USER\Desktop\VendorMachine_WPF-MVVM\VendorMachine\VendorMachine_APP\obj\Debug\net7.0-windows\View\Acceuil.g.cs
 C:\Users\USER\Desktop\VendorMachine_WPF-MVVM\VendorMachine\VendorMachine_APP\obj\Debug\net7.0-windows\View\Acceuil.baml
+C:\Users\USER\Desktop\VendorMachine_WPF-MVVM\VendorMachine\VendorMachine_APP\obj\Debug\net7.0-windows\View\CheckAbonnee.g.cs
+C:\Users\USER\Desktop\VendorMachine_WPF-MVVM\VendorMachine\VendorMachine_APP\obj\Debug\net7.0-windows\View\CheckAbonnee.baml

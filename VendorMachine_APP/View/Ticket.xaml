@@ -5,16 +5,16 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              mc:Ignorable="d"
              d:DesignHeight="300" d:DesignWidth="300">
-    <Grid>
+    <Grid Style="{StaticResource MainGrid}">
         <Grid>
             <StackPanel VerticalAlignment="Center"
                         HorizontalAlignment="Center">
                 <TextBlock
                     Style="{StaticResource TitleWindow}"
                     Text="Passager" />
-                <TextBlock Text="Passager View"
-                           Foreground="Azure"
-                           FontSize="25" />
+                <!-- <TextBlock Text="Passager View" -->
+                <!--            Foreground="Azure" -->
+                <!--            FontSize="25" /> -->
                 <Button Content="Go To Abonne"
                         Height="25"
                         Command="{Binding NavigateToAbonneeViewFromTicketView}" />
